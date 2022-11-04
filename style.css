@@ -1,0 +1,23 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+}
+
+div{
+    background-color: antiquewhite;
+    width: 50%;
+   
+}
+
+#img{
+    background-color: rgb(175, 145, 145);
+    width: 20rem;
+    height: 20rem;
+    border-radius: 100vh;
+
+}
+
+span{
+    display: flex;
+    justify-content: center;
+}
